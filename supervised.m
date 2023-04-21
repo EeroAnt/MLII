@@ -90,7 +90,7 @@ for k=1:100000
 
     DA3 = (f2 * Db3);
 
-% Second last layer D_{b2} L, update b2 and A3
+% Second last layer D_{b2} L, update b2 and A1
 
     Db2 = Db3 * A3 * S2;
 
